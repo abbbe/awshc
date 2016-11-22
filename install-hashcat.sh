@@ -1,6 +1,6 @@
 #!/bin/sh -x
 
-cd /tmp
+cd ~
 
 apt-get install -y build-essential git
 
