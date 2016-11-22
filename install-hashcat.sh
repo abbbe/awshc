@@ -2,7 +2,7 @@
 
 cd ~
 
-apt-get install -y build-essential git
+apt-get install -y build-essential
 
 git clone https://github.com/hashcat/hashcat.git
 
